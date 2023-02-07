@@ -1,4 +1,4 @@
-package com.bettercode.bettercode;
+package com.bettercode;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
